@@ -1,0 +1,32 @@
+img{
+    position: relative;
+    max-width: 100%;
+}
+h1{
+    padding: 40px 0px 0px;
+}
+body{
+    text-align: center;
+    box-sizing: border-box;
+}
+#main{
+    background-color: rgba(218, 211, 211, 0.955);
+    padding: 10px;
+}
+#img-div{
+    background-color: white;
+    margin: 10px;
+}
+figcaption{
+    margin: 15px;
+    padding: 20px;
+}
+ul{
+    margin: 0px auto 50px auto;
+    max-width: 550px;
+    text-align: left;
+}
+img{
+    display: block;
+    margin: auto;
+}
